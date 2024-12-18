@@ -30,11 +30,11 @@ b. Aşağıdakı məlumatlarla ayrıca JSON faylında (summary_report.json) xül
 #### Nəticə etibarilə
 
 ##### verilən:
-access_log.txt
-thread_feed.html
+ - access_log.txt
+ - thread_feed.html
 
 ##### tapşırıqda istənilən:
-url_status_report.txt           - Bütün URL-ləri və onların status kodlarını sadalayın.
-malware_candidates.csv          - 404 səhvli URL-ləri və onların saylarını sadalayın.
-alert.json                      - Qara siyahıya salınmış uyğun URL-ləri saxlayın.
-summary_report.json             - Təhlilin nəticələrini ümumiləşdirin.
+ - url_status_report.txt           - Bütün URL-ləri və onların status kodlarını sadalayın.
+ - malware_candidates.csv          - 404 səhvli URL-ləri və onların saylarını sadalayın.
+ - alert.json                      - Qara siyahıya salınmış uyğun URL-ləri saxlayın.
+ - summary_report.json             - Təhlilin nəticələrini ümumiləşdirin.
